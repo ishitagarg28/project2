@@ -1,6 +1,3 @@
 # homework
-<<<<<<< HEAD
 
-=======
->>>>>>> feature
 
